@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil do ViniciusPatricio20 😁
+## Bem-vindo(a) ao perfil do ViniciusPatricio20 😁
 
  <div>
    <a href="https://github.com/ViniciusPatricio20">
@@ -14,10 +14,10 @@
  
 <br>
  
-### Redes sociais abaixo
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/viniciuspatricioo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:vinippt088@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/viniciuspatricioo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinippt088@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
